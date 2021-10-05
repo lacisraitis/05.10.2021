@@ -15,6 +15,7 @@ teikums = inmut("Uzraksti teikumu,kurā ir vismaz divi vārdi, kuri sākas ar bu
 
 for vards in teikums.split():
   if vards[0] == 'S':
+    print(vards)
 
 
 #4.uzd.
